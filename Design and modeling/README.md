@@ -14,15 +14,12 @@
 ![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20creating%20(activity).png)    
 
 ## Event's deleting
-![Activity diagrams]
-(https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20deleting%20(activity).png)    
+![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20deleting%20(activity).png)    
 
 ## Event's displaying
-![Activity diagrams]
-(https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20displaying%20(activity).png)    
+![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20displaying%20(activity).png)    
 ## Event's editing
-![Activity diagrams]
-(https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20editing%20(activity).png)    
+![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20editing%20(activity).png)    
 
 
 ### 3. Диаграмма последовательности<a name="3"></a>
