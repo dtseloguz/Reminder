@@ -11,7 +11,7 @@
 
 ### 2. Диаграмма активности<a name="2"></a>
 ## Event's creating
-![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20creating%20(activity).png)
+![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20creating%20(activity).png)    
 
 ## Event's deleting
 ![Activity diagrams]
