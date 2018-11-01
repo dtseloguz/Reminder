@@ -12,4 +12,10 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 ## Event's creating:
-![Activity diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Activity%20diagrams/Event's%20creating%20(activity).png)
+![Sequence diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Sequence%20diagrams/Event's%20creating%20(sequence).png)
+
+## Event's deleting
+![Sequence diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Sequence%20diagrams/Event's%20deleting%20(sequence).png)
+
+## Event's displaying 
+![Sequence diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Sequence%20diagrams/Event's%20displaying%20(sequence).png)
