@@ -57,3 +57,8 @@
 
 ## Event's editing
 ![Machine state diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Machine%20state%20diagrams/Event's%20editing%20(machine%20state).png)
+
+
+### 6. Диаграмма развертывания<a name="6"></a>
+## Deployment
+![Other diagrams](https://github.com/dtseloguz/Reminder/blob/master/Design%20and%20modeling/Other%20diagrams/Deployment.png)
